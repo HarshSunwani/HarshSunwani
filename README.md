@@ -5,11 +5,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently looking for work experience through internships, free-lancing and collabs or open source
+- 🔭 I’m currently exploring full-time roles, freelancing gigs, and open-source projects to grow and contribute
 
-- 🌱 I’m currently learning MERN Stack Web Development
+- 🌱 Deepening my expertise in scalable full-stack development with React, Node.js, and cloud services like Azure
 
-- 💬 Talk to me about Web Development, JavaScript, Freelancing Opportunities, Open Source or Anime :p
+- 💬 Let’s chat about Web Development, JavaScript, System Design, Freelancing, Open Source... or Anime 😄
 
 <br/>
 
